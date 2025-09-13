@@ -1,4 +1,4 @@
-<h1 align="center">박원 (Won Park)</h1>
+<h1 align="center">박 원 (Won Park)</h1>
 
 
 ## Education
