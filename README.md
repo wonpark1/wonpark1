@@ -7,6 +7,7 @@
 
 
 ## Projects
+- [**2025 동국대학교 가을 축제 사이트**](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) (2025)
 - [**심봤다 | AI 기반 동네 남은 재고 거래 서비스**](https://github.com/wonpark1/2025-hackathon-5-simbatda-frontend.git) (2025)  
 - [**너굴선배 | 새내기 상황별 옷차림 추천 서비스**](https://github.com/wonpark1/2025-simba-1---.git) (2025)  
 - [**오픈소스소프트웨어실습 팀 소개 페이지**](https://github.com/wonpark1/2025-1-OSSPrac-BeefFried-03.git) (2024)
