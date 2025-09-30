@@ -48,7 +48,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wonpark1&theme=default&hide_border=false" alt="WakaTime Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonpark1&theme=default&hide_border=false" alt="GitHub Streak" />
 </div>
 
