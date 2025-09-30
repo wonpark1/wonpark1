@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b59b6&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=ffffff&fontAlignY=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=9b59b6:ff6b6b&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20Won's%20GitHub!&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <br>
@@ -68,5 +68,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b59b6&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=ff6b6b:9b59b6&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=25&fontColor=ffffff&fontAlignY=65" alt="Footer" />
 </div>
