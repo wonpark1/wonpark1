@@ -55,13 +55,13 @@
 
 <div align="center">
   <a href="mailto:qkrdnjs0323@gmail.com">
-    <img src="https://img.shields.io/badge/Email-qkrdnjs0323@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-qkrdnjs0323@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/wonpark1">
-    <img src="https://img.shields.io/badge/GitHub-wonpark1-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-wonpark1-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/qkr.won/">
-    <img src="https://img.shields.io/badge/Instagram-qkr.won-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-qkr.won-pink?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
