@@ -43,8 +43,12 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&custom_title=Won%20Park's%20Detailed%20GitHub%20Stats&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_border=false" alt="Detailed Stats" />
 </div>
 
 ## 📧 Contact
