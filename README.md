@@ -43,24 +43,23 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Statistics" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wonpark1&theme=flat&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </div>
 
 ## 📧 Contact
 
-- **Email**: qkrdnjs0323@gmail.com
-- **GitHub**: [wonpark1](https://github.com/wonpark1)
-- **Instagram** : [qkr.won](https://www.instagram.com/qkr.won/)
+<div align="center">
+  <a href="mailto:qkrdnjs0323@gmail.com">
+    <img src="https://img.shields.io/badge/Email-qkrdnjs0323@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/wonpark1">
+    <img src="https://img.shields.io/badge/GitHub-wonpark1-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/qkr.won/">
+    <img src="https://img.shields.io/badge/Instagram-qkr.won-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
