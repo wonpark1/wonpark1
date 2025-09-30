@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=9b59b6:ff6b6b&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20Won's%20GitHub!&descAlignY=60&descAlign=50&animation=blinking" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b59b6&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20Won's%20GitHub!&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <br>
@@ -44,6 +44,8 @@
 - **Naver Boostcourse** - Data Analyst Trainee (Jan. 2024 – Feb. 2024)
 - **42 Gyeongsan** - Software Engineering Trainee (Jan. 2025 – Feb. 2025)
 - **LikeLion @ Dongguk Univ.** - Frontend Developer (Mar. 2025 – Nov. 2025)
+- **Google Developer Group on Campus DGU** - AI/ML Developer (Sep . 2025 -)
+- **SOPT** - Web Frontend Developer (Sep . 2025 - )
 
 ## 📧 Contact
 
@@ -53,5 +55,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=9b59b6:ff6b6b&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=ffffff&fontAlignY=65&desc=Keep%20Coding%20Keep%20Growing&descAlignY=80&descAlign=50" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9b59b6&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=ffffff&fontAlignY=65&desc=Keep%20Coding%20Keep%20Growing&descAlignY=80&descAlign=50" alt="Footer" />
 </div>
