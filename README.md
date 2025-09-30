@@ -40,7 +40,7 @@
 - **Google Developer Group on Campus DGU** - AI/ML Developer (Sep . 2025 -)
 - **SOPT** - Web Frontend Developer (Sep . 2025 - )
 
-## 📊 GitHub Analytics
+## 📊 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -48,6 +48,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonpark1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wonpark1&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 Achievements
@@ -60,6 +68,7 @@
 
 - **Email**: qkrdnjs0323@gmail.com
 - **GitHub**: [wonpark1](https://github.com/wonpark1)
+- **Instagram** : [qkr.won](https://www.instagram.com/qkr.won/)
 
 ---
 
