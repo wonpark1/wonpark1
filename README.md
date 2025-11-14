@@ -25,7 +25,7 @@
 - **Bachelor of Engineering** in Information and Communication Engineering / Data Science Software, Dongguk University (Mar. 2023 – Feb. 2027 _Expected_)
 
 ## 🚀 Projects
-
+- [**BOiNi - 청중이 보이니, 발표가 달라진다**](https://github.com/likelion-line4thon-crushers/line4thon-presentation-frontend.git)) (2025)
 - [**2025 동국대학교 가을 축제 사이트**](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) (2025)
 - [**심봤다 | AI 기반 동네 남은 재고 거래 서비스**](https://github.com/wonpark1/2025-hackathon-5-simbatda-frontend.git) (2025)
 - [**너굴선배 | 새내기 상황별 옷차림 추천 서비스**](https://github.com/wonpark1/2025-simba-1---.git) (2025)
