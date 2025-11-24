@@ -44,15 +44,7 @@
 
 
 
-<div style="text-align: center;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wonpark1&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/wonpark1"
-      width="600"
-      height="300"
-    />
-  </a>
-</div>
+
 
 
 ## 📊 Statistics
@@ -62,6 +54,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wonpark1&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/wonpark1"
+      width="600"
+      height="300"
+    />
+  </a>
+  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonpark1&theme=default&hide_border=false" alt="GitHub Streak" />
 </div>
