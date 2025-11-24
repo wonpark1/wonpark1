@@ -43,13 +43,16 @@
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wonpark1&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/wonpark1"
-  width="600"
-  height="300"
-/>
-</a>
+
+<div style="text-align: center;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wonpark1&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/wonpark1"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
 
 
 ## 📊 Statistics
