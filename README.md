@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=e6d7ff&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=000000&fontAlignY=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=ffc2d1&height=200&section=header&text=Park%20Won&fontSize=50&fontColor=000000&fontAlignY=50" alt="Header" />
 </div>
 
 <br>
