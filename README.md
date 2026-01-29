@@ -40,8 +40,8 @@
 - **Naver Boostcourse** - Data Analyst Trainee (Jan. 2024 – Feb. 2024)
 - **42 Gyeongsan** - Software Engineering Trainee (Jan. 2025 – Feb. 2025)
 - **LikeLion @ Dongguk Univ.** - Frontend Developer (Mar. 2025 – Nov. 2025)
+- **SOPT** - Web Frontend Developer (Sep . 2025 - Jan . 2026)
 - **Google Developer Group on Campus DGU** - Web Frontend Developer (Sep . 2025 -)
-- **SOPT** - Web Frontend Developer (Sep . 2025 - )
 
 
 
