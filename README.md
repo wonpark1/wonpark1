@@ -44,19 +44,6 @@
 - **Google Developer Group on Campus DGU** - Web Frontend Developer (Sep . 2025 -)
 
 
-
-
-
-
-
-
-## 📊 Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonpark1&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonpark1&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
-
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wonpark1&utm_content=farm">
 <img
