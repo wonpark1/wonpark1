@@ -32,13 +32,14 @@
 - [**오픈소스소프트웨어실습 팀 소개 페이지**](https://github.com/wonpark1/2025-1-OSSPrac-BeefFried-03.git) (2024)
 
 ## 💼 Experience
-
+- **Google Developer Group on Campus DGU** - Web/App Member (Sep . 2025 -)
+- **SOPT** - Web Frontend Part (Sep . 2025 - Jan . 2026)
+- **LikeLion @Dongguk Univ.** - Frontend Track (Mar. 2025 – Nov. 2025)
+- **42 Gyeongsan** - Software Engineering Trainee (Jan. 2025 – Feb. 2025)
+- **DGU Farm System** - AI Member (June.2024 - August.2024)
 - **LG Aimers** - Machine Learning Trainee (Jul. 2024 – Aug. 2024)
 - **Naver Boostcourse** - Data Analyst Trainee (Jan. 2024 – Feb. 2024)
-- **42 Gyeongsan** - Software Engineering Trainee (Jan. 2025 – Feb. 2025)
-- **LikeLion @ Dongguk Univ.** - Frontend Developer (Mar. 2025 – Nov. 2025)
-- **SOPT** - Web Frontend Developer (Sep . 2025 - Jan . 2026)
-- **Google Developer Group on Campus DGU** - Web Frontend Developer (Sep . 2025 -)
+
 
 
 <div align="center">
