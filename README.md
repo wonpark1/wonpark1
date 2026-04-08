@@ -22,14 +22,16 @@
 - **Bachelor of Engineering** in Information and Communication Engineering / Data Science Software, Dongguk University (Mar. 2023 – Feb. 2027 _Expected_)
 
 ## 🚀 Projects
-- [**CareNA - 건강검진 결과를 쉽게, 관리까지 한 번에**](https://github.com/team-carena/carena-client.git) (2026)
-- [**눈누 사이트 리디자인**](https://github.com/SOPT-all/37-COLLABORATION-WEB-NOONNU.git) (2025)
-- [**BOiNi - 청중이 보이니, 발표가 달라진다**](https://github.com/likelion-line4thon-crushers/line4thon-presentation-frontend.git) (2025)
-- [**AI기반 낙엽 ASMR 숏폼 커뮤니티**](https://github.com/SOPT-all/37-SOPKATHON-WEB-WEB1.git) (2025)
-- [**2025 동국대학교 가을 축제 사이트**](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) (2025)
-- [**심봤다 | AI 기반 동네 남은 재고 거래 서비스**](https://github.com/wonpark1/2025-hackathon-5-simbatda-frontend.git) (2025)
-- [**너굴선배 | 새내기 상황별 옷차림 추천 서비스**](https://github.com/wonpark1/2025-simba-1---.git) (2025)
-- [**오픈소스소프트웨어실습 팀 소개 페이지**](https://github.com/wonpark1/2025-1-OSSPrac-BeefFried-03.git) (2024)
+
+- [**근전도(EMG) 기반 스마트 모빌리티 보조 시스템**](https://github.com/Capstone-EMG-3P1L/NeuroMove_backend.git) (2026) - BE
+- [**DoLog - 전시회 큐레이팅 서비스**](https://github.com/DoLog-Team/DoLog-BE.git) (2026) - BE
+- [**CareNA - 건강검진 결과를 쉽게, 관리까지 한 번에**](https://github.com/team-carena/carena-client.git) (2026) - FE
+- [**눈누 사이트 리디자인**](https://github.com/SOPT-all/37-COLLABORATION-WEB-NOONNU.git) (2025) - FE
+- [**BOiNi - 청중이 보이니, 발표가 달라진다**](https://github.com/likelion-line4thon-crushers/line4thon-presentation-frontend.git) (2025) - FE
+- [**AI기반 낙엽 ASMR 숏폼 커뮤니티**](https://github.com/SOPT-all/37-SOPKATHON-WEB-WEB1.git) (2025) - FE
+- [**2025 동국대학교 가을 축제 사이트**](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) (2025) - FE
+- [**심봤다 | AI 기반 동네 남은 재고 거래 서비스**](https://github.com/wonpark1/2025-hackathon-5-simbatda-frontend.git) (2025) - FE
+- [**너굴선배 | 새내기 상황별 옷차림 추천 서비스**](https://github.com/wonpark1/2025-simba-1---.git) (2025) - FE
 
 ## 💼 Experience
 - **Google Developer Group on Campus DGU** - Web/App Member (Sep . 2025 -)
