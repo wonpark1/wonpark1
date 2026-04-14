@@ -31,7 +31,6 @@
 - [**AI기반 낙엽 ASMR 숏폼 커뮤니티**](https://github.com/SOPT-all/37-SOPKATHON-WEB-WEB1.git) (2025) - FE
 - [**2025 동국대학교 가을 축제 사이트**](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) (2025) - FE
 - [**심봤다 | AI 기반 동네 남은 재고 거래 서비스**](https://github.com/wonpark1/2025-hackathon-5-simbatda-frontend.git) (2025) - FE
-- [**너굴선배 | 새내기 상황별 옷차림 추천 서비스**](https://github.com/wonpark1/2025-simba-1---.git) (2025) - FE
 
 ## 💼 Experience
 - **Google Developer Group on Campus DGU** - Web/App Member (Sep . 2025 -)
