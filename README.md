@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-- [**근전도(EMG) 기반 스마트 모빌리티 보조 시스템**](https://github.com/Capstone-EMG-3P1L/NeuroMove_backend.git) (2026) - BE
+- [**근전도(EMG) 기반 스마트 모빌리티 보조 시스템**](https://github.com/Capstone-EMG-3P1L/NeuroMove_backend.git) (2026) - BE, FE
 - [**DoLog - 전시회 큐레이팅 서비스**](https://github.com/DoLog-Team/DoLog-BE.git) (2026) - BE
 - [**CareNA - 건강검진 결과를 쉽게, 관리까지 한 번에**](https://github.com/team-carena/carena-client.git) (2026) - FE
 - [**눈누 사이트 리디자인**](https://github.com/SOPT-all/37-COLLABORATION-WEB-NOONNU.git) (2025) - FE
